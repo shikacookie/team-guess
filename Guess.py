@@ -5,7 +5,7 @@ print("Welcome to the guessing game!")
 answer = random.randint(1, 100)
 guess = int(input("Guess a number (1-100): "))
 
-if guess == answer:
+if guess == answer
     print("Correct!")
 elif guess > answer:
     print("Too high! The answer was", answer)
