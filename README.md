@@ -5,3 +5,5 @@
 執行方式:在終端機輸入 `python guess.py`
 
 「作者:shikacookie、rico101822」
+
+「玩法:在終端機輸入 python guess.py 執行」
